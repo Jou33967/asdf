@@ -1,0 +1,39 @@
+
+body{
+    background-color:lightgreen;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+
+
+h1 {
+  color: white;
+  margin-left: 50x;
+}
+
+h1 {
+  border: 2px solid pink;
+  border-radius: 5px;
+}
+
+"page2.html" {
+    
+}
+
+    
+"basictest"{
+    background:lightblue;
+}
+#list1 li{
+    background:lightpink;
+}
+#list1 .green, #list2 .green{
+    background: lightgreen;
+}
+a{
+ background: blue;
+    color: aliceblue;
+}
